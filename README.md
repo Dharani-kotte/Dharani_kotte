@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://www.dreamstime.com/children-coding-school-education-computer-programming-banner-poster-children-coding-school-education-computer-programming-image272063494)](https://rishavchanda.io)
 <h1 align="center">Hello I'm Dharani</h1>
 <h3 align="center">A passionate Web developer</h3>
 
